@@ -13,23 +13,18 @@ copyright = "Andy C.H. Chang ©"
   googleAnalytics = ""
 
   [[params.social]]
-    name = "Twitter"
-    link = "#"
-    icon = "fab fa-twitter"
+    name = "Instagram"
+    link = "https://www.instagram.com/andyrochi"
+    icon = "fab fa-instagram"
 
   [[params.social]]
     name = "Github"
-    link = "#"
+    link = "https://github.com/andyrochi"
     icon = "fab fa-github"
 
   [[params.social]]
-    name = "Medium" 
-    link = "#"
-    icon = "fab fa-medium-m"
-
-  [[params.social]]
     name = "LinkedIn"
-    link = "#"
+    link = "https://www.linkedin.com/in/andychchang/"
     icon = "fab fa-linkedin-in"
 
 
