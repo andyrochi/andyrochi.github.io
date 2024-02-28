@@ -1,7 +1,7 @@
 ---
 title: "Pocket Café: Your favorite cafés in your pocket!"
 date: 2022-06-01
-draft: true
+draft: false
 project_tags: ["coffee", "Heroku", "LINE Messaging API", "PostgreSQL", "Python", "Vue.js", "node.js"]
 status: "evergreen"
 weight: 3
@@ -71,7 +71,7 @@ Chinese version of the report below.
 
 **口袋咖啡廳名單！**
 
-<img class="mw-100" src="assets/featured.jpeg" alt="overview">
+<img class="mw-100" src="featured.jpeg" alt="overview">
 
 ## A. 應用描述
 
