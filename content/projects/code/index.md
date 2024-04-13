@@ -1,12 +1,23 @@
 ---
 title: "Image-Text Co-Decomposition for Text-Supervised Semantic Segmentation (CVPR2024)"
 date: 2023-11-18
-lastmod: 2024-02-28
+lastmod: 2024-04-13
 draft: false
 project_tags: ["computer-vision", "semantic-segmentation", "CLIP"]
 status: "evergreen"
 weight: 2
 summary: "Ji-Jia Wu, **Andy Chia-Hao Chang**, Chieh-Yu Chuang, Chun-Pei Chen, Yu-Lun Liu, Min-Hung Chen, Hou-Ning Hu, Yung-Yu Chuang, and Yen-Yu Lin"
+links:
+    external_link:
+        text: "arXiv paper"
+        icon: "far fa-file-alt"
+        href: "https://arxiv.org/abs/2404.04231"
+        weight: 1
+    code_link:
+        text: "project code"
+        icon: "fab alt brands fa-github"
+        href: "https://github.com/072jiajia/Image-Text-Co-Decomposition"
+        weight: 2
 ---
 
 [🎉 2024/02/26 This work has been accepted by CVPR 2024!]
@@ -20,3 +31,5 @@ We notice that there is a discrepancy between text alignment and semantic segmen
 To work with a vision-language model, we present a prompt learning mechanism that derives an extra representation to highlight an image segment or a word segment of interest, with which more effective features can be extracted from that segment.
 
 Comprehensive experimental results demonstrate that our method performs favorably against existing text-supervised semantic segmentation methods on six benchmark datasets.
+
+The paper can be viewed [here](https://arxiv.org/abs/2404.04231).
