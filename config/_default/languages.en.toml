@@ -1,0 +1,24 @@
+languageCode = "en-US"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "Andy Chang"
+copyright = "Andy Chang"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  mainSections = ["projects"]
+  description = "Andy Chia-Hao Chang is a New York-based software engineer and CS master’s student at Cornell Tech, specializing in deep learning, systems, and user-centered web development."
+
+[params.author]
+  name = "Andy C.H. Chang"
+  image = "img/author.jpg"
+  headline = "Building thoughtful software at the intersection of AI, design, and systems."
+  bio = "Andy Chang is a software engineer and CS master’s student at Cornell Tech, specializing in deep learning and systems. He enjoys building thoughtful, user-centered products."
+  links = [
+    { linkedin = "https://www.linkedin.com/in/andychchang/" },
+    { github = "https://github.com/andyrochi" },
+    { instagram = "https://www.instagram.com/andyrochi/" }
+  ]
