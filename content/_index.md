@@ -4,3 +4,7 @@ description: "Andy Chia-Hao Chang is a New York-based software engineer and CS m
 ---
 
 Hi, I’m Andy Chia-Hao Chang (張家豪), a New York-based software engineer and CS graduate student at [Cornell Tech](https://tech.cornell.edu/), specializing in deep learning and systems. I’m passionate about building thoughtful, human-centered products at the intersection of AI, design, and real-world impact. [More about me →](/about).
+
+{{< alert "circle-info" >}}
+I’m still building out this site, stay tuned for updates and new projects.
+{{< /alert >}}
