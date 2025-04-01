@@ -4,7 +4,7 @@ languageDirection = "ltr"
 weight = 1
 
 title = "Andy Chang"
-copyright = "Andy Chang"
+copyright = "&copy; 2025 Andy Chang"
 
 [params]
   dateFormat = "2 January 2006"
