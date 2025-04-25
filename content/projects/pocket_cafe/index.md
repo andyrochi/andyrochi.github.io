@@ -69,7 +69,7 @@ The following details the features and development process.
 
 **Pocket Café: Your favorite cafés in your pocket!**
 
-<img class="mw-100" src="featured.jpeg" alt="overview">
+<img class="mw-100" src="thumbnail.jpg" alt="overview">
 
 ### **Application Overview**
 

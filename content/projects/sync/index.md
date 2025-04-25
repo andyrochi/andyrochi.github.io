@@ -47,7 +47,7 @@ To address this issue, we created **SYNC - Crowdsourcing Platform for News Co-Ed
 
 ## Features and Screenshots
 The homepage of the platform.
-![SYNC Homepage](featured.png)
+![SYNC Homepage](thumbnail.png)
 
 The article reading interface.
 ![Article Reading Interface](assets/article.png)
