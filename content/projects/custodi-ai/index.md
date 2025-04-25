@@ -28,13 +28,9 @@ During Summer 2024, I participated in this meaningful and engaging project.
 ## My Responsibility
 
 - Completely rebuilt the frontend using Vite and Vue.js, significantly reducing the project build time from 1 minute **to under 5 seconds**.
-
 - Developed an LLM-powered chatbot leveraging **prompt engineering** to streamline data input and **few-shot prompting** techniques to enhance machine learning data analysis.
-
 - Streamlined the project architecture by adopting Vue Single File Components (SFCs) and utilizing Pinia for efficient global state management.
-
 - Redesigned the user interface, employing TailwindCSS to ensure responsive and accessible design across multiple platforms.
-
 - Integrated markdown rendering for simplified content editing and PDF exporting to enhance user convenience.
 
 ## Features and Screenshots
